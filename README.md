@@ -3,9 +3,9 @@ I designed and built a Pen Plotter to plot generative art. This document is most
 
 <p float="left">
 <img src="https://github.com/zradlicz/Pen-Plotter/blob/main/Media/20211016_145640.jpg" width=400px>
-<img src="https://github.com/zradlicz/Pen-Plotter/blob/main/Media/20211116_145644.jpg" width=400px>
-<img src="https://github.com/zradlicz/Pen-Plotter/blob/main/Media/20211116_164535.jpg" width=400px>
-<img src="https://github.com/zradlicz/Pen-Plotter/blob/main/Media/20211119_193136.jpg" width=400px>
+<img src="https://github.com/zradlicz/Pen-Plotter/blob/main/Media/20211016_145644.jpg" width=400px>
+<img src="https://github.com/zradlicz/Pen-Plotter/blob/main/Media/20211016_164535.jpg" width=400px>
+<img src="https://github.com/zradlicz/Pen-Plotter/blob/main/Media/20211019_193136.jpg" width=400px>
 <p/>
 
 ### Arduino
