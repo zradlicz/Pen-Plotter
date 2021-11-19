@@ -3,7 +3,6 @@ I designed and built a Pen Plotter to plot generative art. I will detail all the
 
 
 ## BOM
-## Folder Layout
 Part | Quantity | Price | Link
 ----- | ------- | ------- | ------
 **3D PRINT**| | |
@@ -30,7 +29,7 @@ M3x20 Screw | 8 | $.10 | https://www.amazon.com/dp/B01NBOCXHE?ref=ppx_yo2_dt_b_p
 M3x12 Screw | 2 | $.10 | https://www.amazon.com/dp/B01NBOCXHE?ref=ppx_yo2_dt_b_product_details&th=1
 M3x25 Screw | 2 | $.10 | https://www.amazon.com/dp/B01NBOCXHE?ref=ppx_yo2_dt_b_product_details&th=1
 3mm x 20mm Round Shaft | 4 | $1.00 | https://www.amazon.com/dp/B07JNP45G9?
-
+**TOTAL**| |**$89.96**|
 
 
 
