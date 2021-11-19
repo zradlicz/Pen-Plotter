@@ -1,5 +1,10 @@
 # Pen Plotter
 I designed and built a Pen Plotter to plot generative art. This document is mostly for me in case I waant to come back and improve my design, so I won't go into detail on assembly or how to actually get it working. Feel free to use the STLs to print your own. I will warn you some of the hole sizes are too small for the harware and shafts, and a lot of dremel work was required to get it to fit together. I lost my Inventor liscense before I got to make improvements, so I'm just calling this project finished.
+### Arduino
+Arduino folder contains grbl which has been modified to control a servo on the xlim pin. This is necessary for the pen to move up and down.
+### GCode
+The Gcode folder contains two python scripts to write gcode to a file which can then be used to upload to Universal GCode Sender. The Pen plotter then connects to UGS and runs.
+
 
 
 
@@ -31,6 +36,44 @@ M3x12 Screw | 2 | $.10 | https://www.amazon.com/dp/B01NBOCXHE?ref=ppx_yo2_dt_b_p
 M3x25 Screw | 2 | $.10 | https://www.amazon.com/dp/B01NBOCXHE?ref=ppx_yo2_dt_b_product_details&th=1
 3mm x 20mm Round Shaft | 4 | $1.00 | https://www.amazon.com/dp/B07JNP45G9?
 **TOTAL**| |**$89.96**|
+
+### Setup
+Here is the list of GRBL Parameters I found to work the best.
+
+$0=10
+$1=25
+$2=0
+$3=0
+$4=0
+$5=0
+$6=0
+$10=1
+$11=0.010
+$12=0.002
+$13=0
+$20=0
+$21=0
+$22=0
+$23=0
+$24=25.000
+$25=500.000
+$26=250
+$27=1.000
+$30=1000
+$31=0
+$32=0
+$100=84.000
+$101=84.000
+$102=250.000
+$110=4000.000
+$111=4000.000
+$112=500.000
+$120=200.000
+$121=200.000
+$122=10.000
+$130=200.000
+$131=200.000
+$132=200.000
 
 ## Example Work
 
