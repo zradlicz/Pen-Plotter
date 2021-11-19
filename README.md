@@ -81,8 +81,8 @@ $132=200.000
 ## Example Work
 
 <p float="left">
-<img src="https://github.com/zradlicz/Pen-Plotter/blob/main/Media/20211119_105208.jpg">
-<img src="https://github.com/zradlicz/Pen-Plotter/blob/main/Media/color_contour.png">
+<img src="https://github.com/zradlicz/Pen-Plotter/blob/main/Media/20211119_105208.jpg" width=400px>
+<img src="https://github.com/zradlicz/Pen-Plotter/blob/main/Media/color_contour.png" width=400px>
 <p/>
 
 ## List of Design Improvements
