@@ -1,5 +1,8 @@
 # Pen Plotter
 I designed and built a Pen Plotter to plot generative art. This document is mostly for me in case I waant to come back and improve my design, so I won't go into detail on assembly or how to actually get it working. Feel free to use the STLs to print your own. I will warn you some of the hole sizes are too small for the harware and shafts, and a lot of dremel work was required to get it to fit together. I lost my Inventor liscense before I got to make improvements, so I'm just calling this project finished.
+
+![alt text](https://github.com/zradlicz/Pen-Plotter/blob/main/Media/20211016_145640.jpg)
+
 ### Arduino
 Arduino folder contains grbl which has been modified to control a servo on the xlim pin. This is necessary for the pen to move up and down.
 ### GCode
@@ -76,6 +79,11 @@ $131=200.000
 $132=200.000
 
 ## Example Work
+
+<p float="left">
+<img src="https://github.com/zradlicz/Pen-Plotter/blob/main/Media/20211119_105208.jpg">
+<img src="https://github.com/zradlicz/Pen-Plotter/blob/main/Media/color_contour.png">
+<p/>
 
 ## List of Design Improvements
 - Pen Holder is too thin and has to much deflection in Y direction  
