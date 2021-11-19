@@ -1,5 +1,6 @@
 # Pen Plotter
-I designed and built a Pen Plotter to plot generative art. I will detail all the CAD models, assembly, schematics and code.
+I designed and built a Pen Plotter to plot generative art. This document is mostly for me in case I waant to come back and improve my design, so I won't go into detail on assembly or how to actually get it working. Feel free to use the STLs to print your own. I will warn you some of the hole sizes are too small for the harware and shafts, and a lot of dremel work was required to get it to fit together. I lost my Inventor liscense before I got to make improvements, so I'm just calling this project finished.
+
 
 
 ## BOM
@@ -31,6 +32,12 @@ M3x25 Screw | 2 | $.10 | https://www.amazon.com/dp/B01NBOCXHE?ref=ppx_yo2_dt_b_p
 3mm x 20mm Round Shaft | 4 | $1.00 | https://www.amazon.com/dp/B07JNP45G9?
 **TOTAL**| |**$89.96**|
 
+## Example Work
 
+## List of Design Improvements
+- Pen Holder is too thin and has to much deflection in Y direction  
+- Wires get in the way during printing  
+- Design electronics box  
+- Use set screws to hold shafts in place rather than press fit  
 
 
